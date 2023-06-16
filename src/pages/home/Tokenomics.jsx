@@ -9,10 +9,10 @@ const Tokenomics = () => {
         />
         <div className="flex justify-center items-center lg:items-start  flex-col gap-4">
           <p className="text-[#1a2129] font-bold bg-tokenomicsText px-10 py-8 bg-fill bg-no-repeat bg-center uppercase text-xl sm:text-[30px] 2xl:text-[42px]">
-            Token Symbol: <span className="text-secondary ">$HMER</span>
+            Token Symbol: <span className="text-secondary ">$JEW</span>
           </p>
           <p className="text-[#1a2129] font-bold bg-tokenomicsText px-10 py-8 bg-fill bg-no-repeat bg-center uppercase text-xl sm:text-[30px] 2xl:text-[42px]">
-            Total Supply: <span className="text-secondary ">100.000.000</span>
+            Total Supply: <span className="text-secondary ">18 million</span>
           </p>
         </div>
         <img
