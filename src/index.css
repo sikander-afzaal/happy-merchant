@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap");
+@font-face {
+  font-family: Mont;
+  src: url("/fonts/Mont-Trial-Regular.woff2");
+  font-weight: 400;
+}
+@font-face {
+  font-family: NulShock;
+  src: url("/fonts/nulshock\ bd.otf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: Lapsus;
+  src: url("/fonts/LapsusPro-Bold.otf");
+  font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  body {
+    @apply bg-body;
+  }
+  .wrapper {
+    @apply w-full flex justify-start items-center flex-col;
+  }
+  .contain {
+    @apply w-[90%] max-w-[1440px] flex;
+  }
+}
