@@ -85,14 +85,14 @@ const Header = () => {
         </button>
         <div className="flex justify-center items-center gap-5">
           <div className="flex justify-center items-center gap-3">
-            <a href="#" target="blank">
+            <a href="https://t.me/HappyMerchantPortal" target="blank">
               <img
                 src="/telegram.png"
                 className="object-contain w-[38px]"
                 alt=""
               />
             </a>
-            <a href="#" target="blank">
+            <a href="https://twitter.com/HappyMerchant_" target="blank">
               <img
                 src="/twitter.png"
                 className="object-contain w-[38px]"

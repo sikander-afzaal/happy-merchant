@@ -16,13 +16,10 @@ const Happy = () => {
         </div>
         <div className="relative isolate lg:self-end">
           <p className="sm:absolute static left-1/2 sm:-translate-x-1/2 sm:-translate-y-1/2 top-[45%] text-white sm:text-black font-comic xl:text-lg text-base font-normal  max-w-full sm:max-w-[480px] xl:max-w-[580px] w-full">
-            I remember the good old days when i could invest in $ETH at a very
-            low cost and make decisions on whether i should invest. The returns
-            on these project were often hundreds or even thousands of times my
-            initial investment. However, as more project teams entered the
-            field, things changed. Nonetheless, we still had opportunities to
-            invest in projects such as $Aave and $Babydoge, which still offered
-            considerable returns. I could decide to HOLD!
+            The Happy Merchant is a common name for an image that depicts an
+            antisemitic caricature of a Jewish man. The Happy Merchant is common
+            on imageboards such as 4chan where it is frequently used in a
+            hateful or disparaging context.
           </p>
           <img
             src="/chat-bg.png"
