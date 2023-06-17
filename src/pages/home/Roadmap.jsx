@@ -14,12 +14,8 @@ const Roadmap = () => {
             />
             <div className="absolute bottom-full xl:bottom-0 -translate-x-[30%] 2xl:-translate-x-1/2 xl:translate-y-[20%] translate-y-[60%] left-[15%]">
               <div className="flex justify-start items-center flex-col gap-1 absolute top-1/2 -translate-x-1/2 -translate-y-1/2  left-1/2 text-center w-max">
-                <h4 className="text-[#1A2129] uppercase leading-[1.3] text-[28px] font-bold ">
-                  Happy Merchant <br /> Protocol
-                </h4>
-                <p className="text-[#1a2129] text-lg font-comic font-normal">
-                  First Lego built on top of <br />
-                  Happy Merchant Protocol
+                <p className="text-[#1a2129] text-base sm:text-lg font-comic font-normal">
+                  A large, hook-shaped nose <br /> ("Jewish nose").
                 </p>
               </div>
               <img
@@ -37,12 +33,8 @@ const Roadmap = () => {
             />
             <div className="absolute z-10 top-0 -translate-x-1/2 sm:-translate-x-[75%] -translate-y-[40%]  left-1/2 sm:left-full">
               <div className="flex justify-start items-center flex-col gap-1 absolute top-[46%] -translate-x-1/2 -translate-y-1/2 left-1/2  text-center w-max">
-                <h4 className="text-[#1A2129] uppercase leading-[1.3] text-[28px] font-bold ">
-                  Happy merchant <br />
-                  NFT collection
-                </h4>
-                <p className="text-[#1a2129] text-lg font-comic font-normal">
-                  Happy Merchant Collection launch
+                <p className="text-[#1a2129] text-base sm:text-lg font-comic font-normal">
+                  A yarmulke (Jewish head garment).
                 </p>
               </div>
               <img
@@ -59,13 +51,11 @@ const Roadmap = () => {
               alt=""
             />
             <div className="absolute bottom-[20%]   left-[5%] sm:left-[18%]">
-              <div className="flex justify-start items-center flex-col gap-1 absolute top-1/2 -translate-x-1/2 -translate-y-1/2  left-1/2 text-center w-max">
-                <h4 className="text-[#1A2129] uppercase leading-[1.3] text-[28px] font-bold ">
-                  MEMefi <br />
-                  development
-                </h4>
-                <p className="text-[#1a2129] text-lg font-comic font-normal">
-                  More rewards for holders <br /> independent of 42 trade volume
+              <div className="flex justify-start items-center flex-col gap-1 absolute top-1/2 -translate-x-1/2 -translate-y-1/2  left-[54%] text-center w-[80%]">
+                <p className="text-[#1a2129] text-base sm:text-lg font-comic font-normal">
+                  A malevolent smile, with a slightly hunched back and hands
+                  being rubbed together, to indicate greed or scheming. Balding,
+                  tightly curled black hair and a tightly curled black beard.[5]
                 </p>
               </div>
               <img
