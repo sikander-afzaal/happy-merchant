@@ -8,9 +8,8 @@ const Hero = () => {
           alt=""
         />
         <div className="relative top-[5%] flex justify-start items-center flex-col gap-3">
-          <h3 className="absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 text-primary w-max text-[23px] sm:text-[35px] lg:text-[28px]  xl:text-[35px] font-bold text-center uppercase">
-            "Let's face it! <br /> A world without Jews <br /> and Blacks would
-            be like <br /> a world without <br /> rats and cockroaches
+          <h3 className="absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 text-primary w-max text-[30px] sm:text-[55px] lg:text-[45px]  xl:text-[55px] font-bold text-center uppercase">
+            Jew-bwa-ha-ha
           </h3>
           <img
             src="/hero-text-frame.png"
